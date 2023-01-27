@@ -1,7 +1,6 @@
-# bmi
+# Compass
 
-A new Flutter project.
-
+Simple Flutter compas
 ## Getting Started
 
 This project is a starting point for a Flutter application.
